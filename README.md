@@ -21,8 +21,10 @@ regular players, can play the game and submit their score to the highscores boar
 We already inserted some words to the db in the listener,
 but you can also add more words and categories in the admin page, or delete existing ones.
 
-![hangman](https://github.com/ranelbe/hangman/assets/89218304/7357ac33-078c-40d3-9ac0-c062d6bb87dc)
-![admin_page](https://github.com/ranelbe/hangman/assets/89218304/a2044667-d7f2-452b-bc11-c4b1c5fe0e83)
+## Preview
+https://github.com/ranelbe/hangman/assets/89218304/a3dd901c-057c-4e98-bd3b-9505f70b7d62
+
+
 
 <br><br>
 Made by @idanc7596 and me.
